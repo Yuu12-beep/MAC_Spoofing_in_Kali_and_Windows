@@ -1,0 +1,13 @@
+What is MAC Address?
+Media Access Control (MAC) Address is a physical address of a device and unlike IP Address, MAC Address is unique and permanent.
+
+What is MAC Spoofing?
+Technique used to change the MAC Address of a network interface which originally assigned by the machine's factory
+
+Why MAC Spoofing is done?
+Change your device's identity, often used to impersonate someone's device to gain access to certain local networks by bypassing the MAC filtering.
+Some hackers used it for Man-in-the-Middle Attack.
+Ethical use includes changing the function of a computer from a router especially when only one public IP is available.
+
+Prevention?
+MAC Locking.
